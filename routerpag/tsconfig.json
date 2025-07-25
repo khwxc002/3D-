@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    // "verbatimModuleSyntax": false, // 关闭严格模块语法检查
+    // "esModuleInterop": true, // 建议开启以兼容 CommonJS/ESM
+    // "skipLibCheck": true // 建议开启以跳过库类型检查
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  }
+}
