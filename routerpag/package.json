@@ -11,7 +11,7 @@
   "dependencies": {
     "@react-three/drei": "^10.5.1",
     "drei": "^2.2.21",
-    "element-plus": "^2.10.4",
+    "element-plus": "^2.11.0",
     "gltfjsx": "^6.5.3",
     "gsap": "^3.13.0",
     "lil-gui": "^0.20.0",
